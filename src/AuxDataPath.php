@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Araga;
+namespace Araga\AuxData;
 
 /**
  * Class AuxDataPath
