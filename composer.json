@@ -2,7 +2,16 @@
     "name": "araga/aux-data",
     "description": "Lightweight, PSR-16 compliant key/value storage on top of SQLite using PDO. Perfect for CLI tools, configuration storage, and simple caching.",
     "type": "library",
-    "keywords": ["sqlite", "cache", "key-value", "storage", "pdo", "configuration", "psr-16", "simple-cache"],
+    "keywords": [
+        "sqlite",
+        "cache",
+        "key-value",
+        "storage",
+        "pdo",
+        "configuration",
+        "psr-16",
+        "simple-cache"
+    ],
     "license": "MIT",
     "require": {
         "php": ">=8.1",
